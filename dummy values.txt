@@ -1,0 +1,1 @@
+insert into dummy values(str_to_date('27-02-2023','%e-%c-%Y'));
