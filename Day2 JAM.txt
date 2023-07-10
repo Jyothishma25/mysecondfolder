@@ -1,0 +1,49 @@
+Day2 JAM
+========
+1.what is a static method and why and when do you use them
+2.Can a static method access class memeber data(instance variable)
+3.Why getters and setters 
+4. what does getter do
+5. what does setter do
+6. how to access getter in other program or main
+7. how to access setter in other program or main
+8. Types of errors in a program
+9. Most difficult error to find out
+10. Runtime errors are called as
+11. Under Throwable class what the two child classes and what is the difference
+12. What happens when a runtime error occures
+13. how to handle runtime errors
+14. how many catch blocks can a try block have
+15. how many finally blocks a try block can have
+16. what kind of code you write in finally block
+17. What should the last catch block has as a parameter and why
+18. difference between throw and throws
+19. give few examples where the methods are with throws keyword
+20. what is custom exception give steps to create a custom exception
+21. What is a stream
+22. what is java.io
+23. Types of Streams in java
+24. Under ByteStreams what the two child classes
+25. Under CharacterStreams what are the two child classes
+26. Name two classes we worked with which belongs to InputStream
+27. Name two classes we worked with which belongs to OutputStream
+28. What is a datasource , what can be different datasources
+29. what is string builder and what does append method of string builder fo
+30  What does read() and read(byte[]) do . give difference
+31. String data = content.toString();
+what does is do and why did we do this
+32. bytes[] barray =  data.getBytes();
+what does the above line do
+33. bout.write(barray);
+what is bout
+what is write
+what is barray
+34. bout.flush()
+what is bout
+what is flush
+and why flush
+35. bout.close()
+    fout.close();
+what does close do and why
+36. File f= new File(string);
+What does the above line do
